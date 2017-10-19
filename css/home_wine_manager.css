@@ -1,0 +1,10 @@
+body { 
+    padding-top: 65px; 
+}
+
+.dashboard-window {
+		border-radius: 0.205rem;
+		border: 1px solid #dddddd;
+		margin: 5px;
+		padding: 5px 15px 5px 15px;
+}
